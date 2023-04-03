@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1514140580 source:e:\codeblock\gl1\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1680463038 source:d:\downloads\gl1\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<mmsystem.h>
+
+1680470700 source:d:\downloads\kp_skrybykin_ivan_pri-119\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<mmsystem.h>
+
+1631260109 d:\downloads\kp_skrybykin_ivan_pri-119\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
